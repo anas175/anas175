@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## Hi there 👋
 
-I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
+I'm using HTML, CSS, Bootstrap and JavaScript to make websites dance. 🕺🏽
 
 **I love working with**
 
