@@ -43,9 +43,8 @@ I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
 </div> -->
 
 ### 🤔 I’m looking for 
-     - A Web Developer role to enchance my knowledge.
 
-<!-- - Integrating AI models to web applications -->
+- A Web Developer role to enchance my knowledge.
 
 ### 📫 How to reach me
 
