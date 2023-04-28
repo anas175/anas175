@@ -1,4 +1,4 @@
-<h1 align="center"> Hola, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<h1 align="center"> Hi, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45" /> I'm Anas Adnan</h1>
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 <!-- ## Hi there 👋 -->
 
-I'm using HTML, CSS, Bootstrap and JavaScript to make websites dance. 🕺🏽
+I'm a web developer and uses HTML, CSS, Bootstrap and JavaScript to make websites dance. 🕺🏽
 
 **I love working with**
 
@@ -34,6 +34,7 @@ I'm using HTML, CSS, Bootstrap and JavaScript to make websites dance. 🕺🏽
 ### 🔭 I’m working on
 
 - Projects for freelance clients.
+- EX: Front End Developer in Mdeez Ecommerce Solution.
 <!-- - Growing [Upbeat Code](https://www.upbeatcode.com) to 100k/month visitors. -->
 
 ### 🌱 I’m learning
