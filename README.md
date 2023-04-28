@@ -34,7 +34,7 @@ I'm a web developer and uses HTML, CSS, Bootstrap and JavaScript to make website
 ### 🔭 I’m working on
 
 - Projects for freelance clients.
-- EX: Front End Developer in Mdeez Ecommerce Solution.
+- EX: Front End Developer in Mdeez Ecommerce Solutions.
 <!-- - Growing [Upbeat Code](https://www.upbeatcode.com) to 100k/month visitors. -->
 
 ### 🌱 I’m learning
@@ -64,7 +64,7 @@ I'm a web developer and uses HTML, CSS, Bootstrap and JavaScript to make website
   </a>
 </div> -->
 
-### Let's Connect :coffee:
+### :coffee: Let's Connect
 <p align="center">
 	<a href="https://github.com/anas175"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/anas-adnan-1424b4185/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
