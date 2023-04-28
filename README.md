@@ -1,4 +1,7 @@
-<!-- ### Hi there 👋 -->
+<h1 align="center"> Hola, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /> I'm Anas Adnan</h1>
 
 <!--
 **anas175/anas175** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi there 👋
+<!-- ## Hi there 👋 -->
 
 I'm using HTML, CSS, Bootstrap and JavaScript to make websites dance. 🕺🏽
 
@@ -46,20 +49,23 @@ I'm using HTML, CSS, Bootstrap and JavaScript to make websites dance. 🕺🏽
 
 - A Web Developer role to enchance my knowledge.
 
-### 📫 How to reach me
+<!-- ### 📫 How to reach me
 
 <div display="flex">
   <a href="https://www.linkedin.com/in/anas-adnan-1424b4185/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-<!--   <a href="https://twitter.com/anas_adnan175">
+  <a href="https://twitter.com/anas_adnan175">
     <img src="https://img.shields.io/badge/codewithbernard-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
-  </a> -->
-<!--   <a href="https://medium.com/@bernardbad">
+  </a>
+  <a href="https://medium.com/@bernardbad">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a> -->
-</div>
+  </a>
+</div> -->
 
-<!-- ### ⚡ Fun fact
-
-I'm definitely not a cat person. -->
+### Let's Connect :coffee:
+<p align="center">
+	<a href="https://github.com/anas175"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/anas-adnan-1424b4185/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.instagram.com/anas_adnan175/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+</p>
