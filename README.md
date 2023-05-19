@@ -33,7 +33,7 @@ I'm a web developer and uses HTML, CSS, Bootstrap and JavaScript to make website
 
 ### 🔭 I’m working on
 
-- Projects for freelance clients.
+- Freelancing Projects.
 - EX: Front End Developer in Mdeez Ecommerce Solutions.
 <!-- - Growing [Upbeat Code](https://www.upbeatcode.com) to 100k/month visitors. -->
 
