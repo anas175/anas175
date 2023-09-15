@@ -31,9 +31,9 @@ I'm a web developer and uses HTML, CSS, Bootstrap and JavaScript to make website
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
 </div>
 
-### 🔭 I’m working on
+### 🔭 I’m working
 
-- Freelancing Projects.
+- Web Developer in OFFTHEWEB.
 - EX: Front End Developer in Mdeez Ecommerce Solutions.
 <!-- - Growing [Upbeat Code](https://www.upbeatcode.com) to 100k/month visitors. -->
 
